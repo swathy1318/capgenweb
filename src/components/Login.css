@@ -1,0 +1,19 @@
+/* components/Login.css */
+
+.login-container {
+    margin-top: 20px;
+  }
+  
+  .login-container input {
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  .login-container button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
